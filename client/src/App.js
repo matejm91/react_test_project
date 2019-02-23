@@ -16,7 +16,7 @@ class App extends Component {
             href="https://reactjs.org"
             target="_blank"
           >
-            Learn React
+            Miro
           </a>
         </header>
       </div>
