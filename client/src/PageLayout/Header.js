@@ -1,14 +1,30 @@
 import React, { Component } from 'react';
-import './Header.css';
+import Button from '@material-ui/core/Button';
 
 class Header extends Component {
   render() {
     return (
       <ul>
-        <li><a href="/">Naslovna stranica</a></li>
-        <li><a href="news">Novosti</a></li>
-        <li><a href="contact">Kontakt</a></li>
-        <li><a href="about_us">O nama</a></li>
+        <li>
+          <Button variant="contained" color="secondary" href="/">
+            Naslovna stranica
+          </Button>
+        </li>
+        <li>
+          <Button variant="contained" color="secondary" href="news">
+            Novosti
+          </Button>
+        </li>
+        <li>
+          <Button variant="contained" color="secondary" href="contact">
+            Kontakt
+          </Button>
+        </li>
+        <li>
+          <Button variant="contained" color="secondary" href="about_us">
+            O nama
+          </Button>
+        </li>
       </ul>
     );
   }
