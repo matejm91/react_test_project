@@ -12,7 +12,7 @@ class Header extends Component {
         </li>
         <li>
           <Button variant="contained" color="secondary" href="news">
-            Novosti
+            Nanovo Rođeni
           </Button>
         </li>
         <li>
@@ -22,7 +22,7 @@ class Header extends Component {
         </li>
         <li>
           <Button variant="contained" color="secondary" href="about_us">
-            O nama
+            Župa
           </Button>
         </li>
       </ul>
