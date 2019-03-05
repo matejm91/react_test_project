@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './newsPage.css';
+import './news.css';
 
 class NewsPage extends React.Component {
   render() {
@@ -8,7 +8,7 @@ class NewsPage extends React.Component {
     return (
       <div className="row">
         <div className="col-xs-1"></div>
-        <div className="col-xs-4 newsPageDiv">
+        <div className="col-xs-4 newsDiv">
           <div>
             O zajednici
           </div>
