@@ -4,7 +4,7 @@ import './aboutUs.css';
 
 class AboutPage extends React.Component {
   render() {
-    /*console.log('about us Page');*/
+    //console.log('about us Page');
     return (
       <div>
         <div className="row">
