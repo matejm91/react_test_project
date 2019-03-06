@@ -30,7 +30,7 @@ class AboutPage extends React.Component {
             </div>
             <br></br>
             <div>
-              Povijest Župe
+            <a href="povijest-zupe">Povijest Župe</a>
             </div>
             Naselje Botinec nastalo je nakon velike poplave koja je pogodila Zagreb u listopadu 1964.
               Na to su područje preseljeni građani čije su kuće stradale u poplavi te su upravo oni bili prvi župljani naše župe.
