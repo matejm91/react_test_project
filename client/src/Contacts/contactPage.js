@@ -10,7 +10,7 @@ class ContactPage extends React.Component {
           <div className="col-xs-1"></div>
           <div className="col-xs-6 contactDiv">
             <div>
-              Adresa: Ulica Pere Kvržice 15, Novi Zagreb, Botinec
+              <b>Adresa:</b> Ulica Pere Kvržice 15, Novi Zagreb, Botinec
             </div>
             <div>
               Radno vrijeme župnog ureda: 08:00-09:00 i 16:30-18:00.
