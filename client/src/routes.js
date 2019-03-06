@@ -7,6 +7,7 @@ import HomePage from './Home/homePage.js';
 import News from './News/newsPage.js';
 import Contacts from './Contacts/contactPage.js';
 import AboutUs from './AboutUs/aboutPage.js';
+import PovijestZupe from './PovijestZupe/PovijestZupe';
 
 export const history = createBrowserHistory();
 
@@ -21,6 +22,7 @@ export default (
             <Route path="/news" exact component={News} />
             <Route path="/contact" exact component={Contacts} />
             <Route path="/about_us" exact component={AboutUs} />
+            <Route path="/povijest-zupe" exact component={PovijestZupe} /> 
           </div>
           )}
           />
