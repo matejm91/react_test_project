@@ -1,9 +1,14 @@
 .footer {
-    position: fixed;
     left: 0;
-    bottom: 0;
     width: 100%;
-    background-color: rgb(180, 174, 174);
     color: black;
     text-align: center;
+ }
+
+ .footerClass {
+     position: absolute;
+     bottom: 0px;
+     width: 100%;
+     background-color: rgb(180, 174, 174);
+
  }
