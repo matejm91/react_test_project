@@ -23,7 +23,7 @@ class AboutPage extends React.Component {
               Iako mala i na prvi pogled neprimjetna, botinečka je crkva mjesto proslave Božjega Imena.
                 Danas naša župa nudi mnoge aktivnosti za djecu, mlade i odrasle o kojima više možete pročitati u Župnim akivnostima.
             </p>
-
+            <hr></hr>
             <p>
               <h3><a href="povijest-zupe">Povijest Župe</a></h3>
 
@@ -47,7 +47,7 @@ class AboutPage extends React.Component {
                 svojim mi je savjetom pomogla da se odlučim za duhovni poziv i donesem jednu od,
                 ako ne i najvažniju odluku u životu.
             </p>
-
+            <hr></hr>
             <h3>
               <u><em>Raspored Bogoslužja:</em></u>
             </h3>
@@ -72,7 +72,7 @@ class AboutPage extends React.Component {
               četvrtak: iza večernje svete mise do 20:00 <br></br>
               subota: 21:00 – 23:00, animirano klanjanje u crkvi <br></br>
             </p>
-            
+            <hr></hr>
             <a href="http://ds-kraljice-svijeta.hr/"><b><em>Družba sestara Kraljice svijeta</em></b></a>
           </bodyr3>
         </bodyr>
