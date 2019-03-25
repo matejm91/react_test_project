@@ -11,7 +11,7 @@ class AboutPage extends React.Component {
           <bodyr1 className="col-xs-1"></bodyr1>
           <bodyr2 className="col-xs-4 aboutDiv">
             <p>
-              <h3>O Župi <a href="http://zupabotinec.com/sv-stjepan-prvomucenik/">Sv. Stjepan Prvomučenik</a></h3>
+              <h3>O Župi <a href="http://zupabotinec.com/sv-stjepan-prvomucenik/" target="_blank" rel="noopener noreferrer">Sv. Stjepan Prvomučenik</a></h3>
 
               <em>Župnik</em> je od 2009. godine <em>velečasni <b>Ivica Berdik.</b></em><br></br>
               U samim počecima službe sadašnjeg župnika u crkvi su prevladavali stariji župljani,
@@ -25,7 +25,7 @@ class AboutPage extends React.Component {
             </p>
             <hr></hr>
             <p>
-              <h3><a href="povijest-zupe">Povijest Župe</a></h3>
+              <h3><a href="povijest-zupe" target="_blank" rel="noopener noreferrer">Povijest Župe</a></h3>
 
               Naselje Botinec nastalo je nakon velike poplave koja je pogodila Zagreb u listopadu 1964.
                 Na to su područje preseljeni građani čije su kuće stradale u poplavi te su upravo oni bili prvi župljani naše župe.
@@ -39,7 +39,7 @@ class AboutPage extends React.Component {
           </bodyr2>
           
           <bodyr3 className="col-xs-4 aboutDiv">
-            <h3><a href="http://zupabotinec.com/ivica-berdik/">Vlč. Ivica Berdik</a></h3>
+            <h3><a href="http://zupabotinec.com/ivica-berdik/" target="_blank" rel="noopener noreferrer">Vlč. Ivica Berdik</a></h3>
 
             <p>
               More ljudi je razgovaralo sa mnom o mome pozivu, što bračnih parova, što pojedinaca,
@@ -73,7 +73,9 @@ class AboutPage extends React.Component {
               subota: 21:00 – 23:00, animirano klanjanje u crkvi <br></br>
             </p>
             <hr></hr>
-            <a href="http://ds-kraljice-svijeta.hr/"><b><em>Družba sestara Kraljice svijeta</em></b></a>
+            <abbr title="Družba sestara Kraljice svijeta">
+            <a href="http://ds-kraljice-svijeta.hr/" target="_blank" rel="noopener noreferrer"><b><em>DsKs</em></b></a>
+            </abbr>
           </bodyr3>
         </bodyr>
       </body>
