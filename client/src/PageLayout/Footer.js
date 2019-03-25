@@ -35,7 +35,7 @@ export default function Footer(props) {
          </div>
         </div>
         <div>
-        <b>Telefon:</b> <br></br> 1 6545 877
+        <b>Telefon:</b> <br></br> 01 6545 877
         </div>
         <div>
           <b>E-mail:</b>
