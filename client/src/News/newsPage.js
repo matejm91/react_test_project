@@ -37,7 +37,7 @@ class NewsPage extends React.Component {
           <p>
             Za one koji žele znati više!
             <abbr title="Povijest zajednice">
-             <a href="http://zupabotinec.com/povijest-zajednice/" target="_blank"> Povijest zajednice</a>
+             <a href="http://zupabotinec.com/povijest-zajednice/" target="_blank" rel="noopener noreferrer"> Povijest zajednice</a>
              </abbr>
           </p>
           </div>
@@ -49,12 +49,12 @@ class NewsPage extends React.Component {
             <b> Petak: 20:00 sati</b>
           <br></br>
             Temu i vrijeme održavanja susreta svaki tjedan možete pogledati na našoj <br></br><em>facebook stranici:</em>
-            <a href="https://hr-hr.facebook.com/pages/category/Community/Nanovo-ro%C4%91eni-1046403725381309/" target="_blank"> Nanovo rođeni facebook</a>
+            <a href="https://hr-hr.facebook.com/pages/category/Community/Nanovo-ro%C4%91eni-1046403725381309/" target="_blank" rel="noopener noreferrer"> Nanovo rođeni facebook</a>
           <br></br>
             Neka od naših predavanja ili predavanja naših gostiju možete pogledati na našem <em>youtube kanalu:</em>
-            <a href="https://www.youtube.com/channel/UCiXXRMlzoA-MKPHVe5V7YdQ" target="_blank"> Nanovo rođeni youtube </a>
+            <a href="https://www.youtube.com/channel/UCiXXRMlzoA-MKPHVe5V7YdQ" target="_blank" rel="noopener noreferrer"> Nanovo rođeni youtube </a>
             ili
-            <a href="http://zupabotinec.com/seminari/" target="_blank"> Nanovo rođeni seminari.</a>
+            <a href="http://zupabotinec.com/seminari/" target="_blank" rel="noopener noreferrer"> Nanovo rođeni seminari.</a>
           </p>
           </div>
       </div>
