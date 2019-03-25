@@ -27,7 +27,7 @@ export default function Footer(props) {
           <b>Info:</b>
         </div>
         <div>
-        <b>Crkva sv. Stjepana Prvomučenika</b>
+        Crkva sv. Stjepana Prvomučenika
         <br></br>
          <div>
            Uica Pere Kvržice 15
@@ -35,14 +35,16 @@ export default function Footer(props) {
          </div>
         </div>
         <div>
-        <b>Telefon:</b> 01 6545 877
+        <b>Telefon:</b> <br></br> 1 6545 877
         </div>
         <div>
           <b>E-mail:</b>
+          <adress>
           <br></br>
-          rktzupabotinec@gmail.com
+          <a href="mailto:rktzupabotinec@gmail.com">rktzupabotinec@gmail.com</a>
           <br></br>
-          nanovorodeni@gmail.com
+          <a href="mailto:nanovorodeni@gmail.com">nanovorodeni@gmail.com</a>
+          </adress>
         </div>
       </div>
     <div className='col-xs-4'>
