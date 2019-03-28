@@ -6,7 +6,6 @@ class NewsPage extends React.Component {
   render() {
     //console.log('news Page');
     return (
-      <body>
       <div className="row">
         <div className="col-xs-1"></div>
         <div className="col-xs-4 newsDiv">
@@ -58,7 +57,6 @@ class NewsPage extends React.Component {
           </p>
           </div>
       </div>
-      </body>
     )
   }
 }
