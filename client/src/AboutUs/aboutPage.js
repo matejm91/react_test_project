@@ -6,10 +6,10 @@ class AboutPage extends React.Component {
   render() {
     //console.log('about us Page');
     return (
-      <body className="aboutPage">
-        <bodyr className="row">
-          <bodyr1 className="col-xs-1"></bodyr1>
-          <bodyr2 className="col-xs-4 aboutDiv">
+      <div className="aboutPage">
+        <div className="row">
+          <div className="col-xs-1"></div>
+          <div className="col-xs-4 aboutDiv">
             <p>
               <h3>O Župi <a href="http://zupabotinec.com/sv-stjepan-prvomucenik/" target="_blank" rel="noopener noreferrer">Sv. Stjepan Prvomučenik</a></h3>
 
@@ -36,9 +36,9 @@ class AboutPage extends React.Component {
               velečasnog Josipa Frkina.<br></br>
               Župa danas broji oko 5 tisuća župljana, od kojih najveći dio živi u Botincu, a manji u Starom Botincu i Dupcima.
               </p>
-          </bodyr2>
-          
-          <bodyr3 className="col-xs-4 aboutDiv">
+          </div>
+
+          <div className="col-xs-4 aboutDiv">
             <h3><a href="http://zupabotinec.com/ivica-berdik/" target="_blank" rel="noopener noreferrer">Vlč. Ivica Berdik</a></h3>
 
             <p>
@@ -74,11 +74,11 @@ class AboutPage extends React.Component {
             </p>
             <hr></hr>
             <abbr title="Družba sestara Kraljice svijeta">
-            <a href="http://ds-kraljice-svijeta.hr/" target="_blank" rel="noopener noreferrer"><b><em>DsKs</em></b></a>
+              <a href="http://ds-kraljice-svijeta.hr/" target="_blank" rel="noopener noreferrer"><b><em>DsKs</em></b></a>
             </abbr>
-          </bodyr3>
-        </bodyr>
-      </body>
+          </div>
+        </div>
+      </div>
     )
   }
 }
