@@ -5,10 +5,10 @@ import './contacts.css';
 class ContactPage extends React.Component {
   render() {
     return (
-      <body className="contact">
-        <bodyr className="row">
-          <bodyr1 className="col-xs-1"></bodyr1>
-          <bodyr2 className="col-xs-6 contactDiv">
+      <div className="contact">
+        <div className="row">
+          <div className="col-xs-1"></div>
+          <div className="col-xs-6 contactDiv">
             <h3>Kontakt župnog ureda:</h3>
             <p>
               <b>Adresa:</b> Ulica Pere Kvržice 15, Novi Zagreb, Botinec <br></br>
@@ -17,9 +17,9 @@ class ContactPage extends React.Component {
               <b>Telefon:</b> 01 6545 877. <br></br>
               <b>E-mail:</b> <a href="mailto:rktzupabotinec@gmail.com">rktzupabotinec@gmail.com</a>
             </p>
-          </bodyr2>
-        </bodyr>
-      </body>
+          </div>
+        </div>
+      </div>
     );
   }
 }
