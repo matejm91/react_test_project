@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/matej/Documents/matej/Projects/react_test_project/server/logs/.278a9db0407388b18c4e5b8af2c68fcdf376fea2-audit.json",
+    "files": [
+        {
+            "date": 1557077739398,
+            "name": "/home/matej/Documents/matej/Projects/react_test_project/server/logs/tools.blur-2019-05-05.log",
+            "hash": "f7f3495f117d6a88d28f5142786cfcbc"
+        }
+    ]
+}

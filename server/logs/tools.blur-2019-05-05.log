@@ -1,0 +1,162 @@
+2019-05-05T17:45:28.291Z [error]: 
+Cannot find module 'js' 
+Error: Cannot find module 'js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:81:14)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+2019-05-05T17:45:28.297Z [info]: [0mGET / [31m500 [0m5.514 ms - 1315[0m
+2019-05-05T17:45:41.158Z [error]: 
+Cannot find module 'jsx' 
+Error: Cannot find module 'jsx'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:81:14)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+2019-05-05T17:45:41.163Z [info]: [0mGET / [31m500 [0m5.213 ms - 1316[0m
+2019-05-05T17:45:53.166Z [error]: 
+No default engine was specified and no extension was provided. 
+Error: No default engine was specified and no extension was provided.
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:61:11)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:335:12)
+2019-05-05T17:45:53.171Z [info]: [0mGET / [31m500 [0m5.214 ms - 1604[0m
+2019-05-05T17:46:02.025Z [error]: 
+No default engine was specified and no extension was provided. 
+Error: No default engine was specified and no extension was provided.
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:61:11)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:335:12)
+2019-05-05T17:46:02.030Z [info]: [0mGET / [31m500 [0m4.195 ms - 1604[0m
+2019-05-05T17:47:28.437Z [error]: 
+Cannot find module 'html' 
+Error: Cannot find module 'html'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:81:14)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+2019-05-05T17:47:28.442Z [info]: [0mGET / [31m500 [0m4.828 ms - 1317[0m
+2019-05-05T17:48:40.338Z [error]: 
+Cannot find module 'reactjs' 
+Error: Cannot find module 'reactjs'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:81:14)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+2019-05-05T17:48:40.343Z [info]: [0mGET / [31m500 [0m4.819 ms - 1320[0m
+2019-05-05T19:32:42.176Z [error]: 
+No default engine was specified and no extension was provided. 
+Error: No default engine was specified and no extension was provided.
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:61:11)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:335:12)
+2019-05-05T19:32:42.181Z [info]: [0mGET / [31m500 [0m3.891 ms - 1604[0m
+2019-05-05T19:33:13.770Z [error]: 
+No default engine was specified and no extension was provided. 
+Error: No default engine was specified and no extension was provided.
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:61:11)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:335:12)
+2019-05-05T19:33:13.775Z [info]: [0mGET / [31m500 [0m4.253 ms - 1604[0m
+2019-05-05T19:34:12.919Z [error]: 
+No default engine was specified and no extension was provided. 
+Error: No default engine was specified and no extension was provided.
+    at new View (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/view.js:61:11)
+    at Function.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/response.js:1008:7)
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:5:7)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:335:12)
+2019-05-05T19:34:12.924Z [info]: [0mGET / [31m500 [0m4.137 ms - 1604[0m
+2019-05-05T19:38:08.208Z [error]: 
+path is not defined 
+ReferenceError: path is not defined
+    at router.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:9:22)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:281:22
+    at param (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:275:10)
+2019-05-05T19:38:08.212Z [info]: [0mGET / [31m500 [0m3.854 ms - 1604[0m
+2019-05-05T19:39:56.998Z [error]: 
+path is not defined 
+ReferenceError: path is not defined
+    at app.get (/home/matej/Documents/matej/Projects/react_test_project/server/routes/index.js:10:24)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:281:22
+    at param (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/matej/Documents/matej/Projects/react_test_project/server/node_modules/express/lib/router/index.js:275:10)
+2019-05-05T19:39:57.004Z [info]: [0mGET / [31m500 [0m4.304 ms - 1604[0m
+2019-05-05T19:40:32.097Z [info]: [0mGET / [31m500 [0m1.859 ms - 1593[0m
+2019-05-05T19:41:03.559Z [info]: [0mGET / [32m200 [0m3.097 ms - 1598[0m
+2019-05-05T19:41:55.018Z [info]: [0mGET / [31m500 [0m2.186 ms - 1645[0m
+2019-05-05T19:42:14.177Z [info]: [0mGET / [31m500 [0m2.453 ms - 1647[0m
+2019-05-05T19:42:34.579Z [info]: [0mGET / [32m200 [0m2.671 ms - 1598[0m
+2019-05-05T19:44:20.740Z [info]: [0mGET / [32m200 [0m2.738 ms - 1598[0m
+2019-05-05T19:46:20.737Z [info]: [0mGET / [32m200 [0m2.789 ms - 1598[0m
+2019-05-05T19:47:25.768Z [info]: [0mGET / [32m200 [0m3.735 ms - 1598[0m
