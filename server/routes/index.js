@@ -14,6 +14,7 @@ router.get('/', (req, res) => {
  *
  * used as a function that is called in app.js which is sending urls
  * and this functions routes it
+ *
  * USEFULL
  */
 // const router = app => {

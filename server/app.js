@@ -27,6 +27,7 @@ app.use('/', indexRouter);
  *
  * used as a function that is called here which is sending urls
  * and is routed in /routes/index.js
+ *
  * USEFULL
  */
 // indexRouter(app);
