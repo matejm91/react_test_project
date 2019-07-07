@@ -7,11 +7,13 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header />
-        <div>
-          {this.props.children}
+        <div className="row page-navigation">
+          <Header />
         </div>
-        <Footer />
+        <div>{this.props.children}</div>
+        <div className="row">
+          <Footer />
+        </div>
       </div>
     );
   }
