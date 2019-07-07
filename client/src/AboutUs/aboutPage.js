@@ -12,14 +12,7 @@ class AboutPage extends React.Component {
           <div className="col-xs-4 aboutDiv">
             <p>
               <h3>
-                O Župi{' '}
-                <a
-                  href="http://zupabotinec.com/sv-stjepan-prvomucenik/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Sv. Stjepan Prvomučenik
-                </a>
+                <u>O Župi Sv. Stjepan Prvomučenik</u>
               </h3>
               <em>Župnik</em> je od 2009. godine{' '}
               <em>
@@ -43,13 +36,9 @@ class AboutPage extends React.Component {
             <hr />
             <p>
               <h3>
-                <a
-                  href="povijest-zupe"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Povijest Župe
-                </a>
+                <u>
+                  <em>Povijest Župe</em>
+                </u>
               </h3>
               Naselje Botinec nastalo je nakon velike poplave koja je pogodila
               Zagreb u listopadu 1964. Na to su područje preseljeni građani čije
@@ -72,13 +61,9 @@ class AboutPage extends React.Component {
 
           <div className="col-xs-4 aboutDiv">
             <h3>
-              <a
-                href="http://zupabotinec.com/ivica-berdik/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Vlč. Ivica Berdik
-              </a>
+              <em>
+                <u>Vlč. Ivica Berdik</u>
+              </em>
             </h3>
 
             <p>
