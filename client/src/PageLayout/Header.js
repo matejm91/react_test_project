@@ -8,7 +8,7 @@ class Header extends Component {
       <ul>
         <li>
           <Button variant="contained" color="secondary" href="/">
-            Naslovna stranica
+            Naslovnica
           </Button>
         </li>
         <li>

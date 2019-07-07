@@ -1,14 +1,15 @@
 .footer {
-    left: 0;
-    width: 100%;
-    color: black;
-    text-align: center;
- }
+  left: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
 
- .footerClass {
-     position: absolute;
-     bottom: 0px;
-     width: 100%;
-     background-color: rgb(180, 174, 174);
-
- }
+.footerClass {
+  position: absolute;
+  bottom: 0px;
+  margin: 0;
+  width: 100%;
+  background-color: rgb(180, 174, 174);
+  padding: 15px 0;
+}
