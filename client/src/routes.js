@@ -1,6 +1,6 @@
 import React from 'react';
-import { Route, Switch } from "react-router-dom";
-import createBrowserHistory from  'history/createBrowserHistory';
+import { Route, Switch } from 'react-router-dom';
+import createBrowserHistory from 'history/createBrowserHistory';
 
 import App from './App/App';
 import HomePage from './Home/homePage.js';
@@ -13,20 +13,22 @@ export const history = createBrowserHistory();
 
 export default (
   <Switch>
-    <Route render={() => (
-      <App history={history}>
-        <Route render={() => (
-          <div>
-            <Route path="/" exact component={HomePage} />
-            {/*          ADD ALL ROUTES HERE         */}
-            <Route path="/news" exact component={News} />
-            <Route path="/contact" exact component={Contacts} />
-            <Route path="/about_us" exact component={AboutUs} />
-            <Route path="/povijest-zupe" exact component={PovijestZupe} /> 
-          </div>
-          )}
+    <Route
+      render={() => (
+        <App history={history}>
+          <Route
+            render={() => (
+              <div>
+                <Route path="/" exact component={HomePage} />
+                {/*          ADD ALL ROUTES HERE         */}
+                <Route path="/news" exact component={News} />
+                <Route path="/contact" exact component={Contacts} />
+                <Route path="/about_us" exact component={AboutUs} />
+                <Route path="/sign-in" exact component={PovijestZupe} />
+              </div>
+            )}
           />
-      </App>
+        </App>
       )}
     />
     {/*<Route component={NotFound} /*/}
